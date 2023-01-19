@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="view\shared\" />
+    <Folder Include="Views\shared\" />
   </ItemGroup>
 
 </Project>
