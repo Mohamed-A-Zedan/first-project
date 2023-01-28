@@ -7,8 +7,4 @@
     <RootNamespace>day_1</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Views\shared\" />
-  </ItemGroup>
-
 </Project>
